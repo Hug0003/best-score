@@ -2,7 +2,8 @@
 
 ## 📄 Description
 c'est dans jeu ou 2 joueur s'affronte tour à tour au lancer de dé, le but est d'arriver a 20 point, avec autant de lancer que tu veux mais saches, que si le dé fait 1 tu perds toute ta mise et tu passes le dé 
-a l'autre joueur donc preserve toi et décide quand tu passes le dé pour stocker tes points et eviter de tout perdre 
+a l'autre joueur donc preserve toi et décide quand tu passes le dé pour stocker tes points et eviter de tout perdre. 
+Fait dans le cadre de la formation udemy avec Jonas Schmedtmann.
 
 ## 🎥 Démo Visuelle
 
