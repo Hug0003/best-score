@@ -1,9 +1,7 @@
 # pig game
 
 ## 📄 Description
-c'est dans jeu ou 2 joueur s'affronte tour à tour au lancer de dé, le but est d'arriver a 20 point, avec autant de lancer que tu veux mais saches, que si le dé fait 1 tu perds toute ta mise et tu passes le dé 
-a l'autre joueur donc preserve toi et décide quand tu passes le dé pour stocker tes points et eviter de tout perdre. 
-Fait dans le cadre de la formation udemy avec Jonas Schmedtmann.
+C'est un jeu où deux joueurs s'affrontent à tour de rôle en lançant un dé. L'objectif est d'atteindre 20 points. Chaque joueur peut lancer le dé autant de fois qu'il le souhaite pendant son tour, mais attention : si le dé affiche 1, tous les points accumulés durant ce tour sont perdus, et le dé passe à l'autre joueur. Il faut donc choisir judicieusement quand arrêter de lancer pour sauvegarder ses points et éviter de tout perdre. Ce projet a été réalisé dans le cadre de la formation Udemy de Jonas Schmedtmann.
 
 ## 🎥 Démo Visuelle
 
@@ -13,16 +11,16 @@ Fait dans le cadre de la formation udemy avec Jonas Schmedtmann.
 ## ✨ Fonctionnalités
 
 - [x] relancer une partie  
-- [x] compter les points  
+- [x] compte les points  
 - [x] passer la main
-- [x] verifier si le dé fait 1
-- [x] verifier quand un joueur a 20 points  
+- [x] verifie si le dé fait 1
+- [x] verifie quand un joueur a 20 points  
 
 
 ## 🚀 Installation
 
 ### Prérequis
-rien c'est l'HTML CSS JS
+rien c'est de l'HTML CSS JS
 
 ### Étapes d'installation
 
